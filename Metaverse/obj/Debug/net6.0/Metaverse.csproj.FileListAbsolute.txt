@@ -1,0 +1,15 @@
+/Users/aditep/Desktop/Metaverse/bin/Debug/net6.0/Metaverse
+/Users/aditep/Desktop/Metaverse/bin/Debug/net6.0/Metaverse.deps.json
+/Users/aditep/Desktop/Metaverse/bin/Debug/net6.0/Metaverse.runtimeconfig.json
+/Users/aditep/Desktop/Metaverse/bin/Debug/net6.0/Metaverse.dll
+/Users/aditep/Desktop/Metaverse/bin/Debug/net6.0/Metaverse.pdb
+/Users/aditep/Desktop/Metaverse/obj/Debug/net6.0/Metaverse.csproj.AssemblyReference.cache
+/Users/aditep/Desktop/Metaverse/obj/Debug/net6.0/Metaverse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aditep/Desktop/Metaverse/obj/Debug/net6.0/Metaverse.AssemblyInfoInputs.cache
+/Users/aditep/Desktop/Metaverse/obj/Debug/net6.0/Metaverse.AssemblyInfo.cs
+/Users/aditep/Desktop/Metaverse/obj/Debug/net6.0/Metaverse.csproj.CoreCompileInputs.cache
+/Users/aditep/Desktop/Metaverse/obj/Debug/net6.0/Metaverse.dll
+/Users/aditep/Desktop/Metaverse/obj/Debug/net6.0/refint/Metaverse.dll
+/Users/aditep/Desktop/Metaverse/obj/Debug/net6.0/Metaverse.pdb
+/Users/aditep/Desktop/Metaverse/obj/Debug/net6.0/Metaverse.genruntimeconfig.cache
+/Users/aditep/Desktop/Metaverse/obj/Debug/net6.0/ref/Metaverse.dll
